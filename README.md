@@ -1,7 +1,6 @@
 ## About me
-👋 Hi, I’m @melchiorhering a Bsc Information Sciences student at the Universiteit van Amsterdam. 
-I am interested in Technology, Data Science and Artificial Intelligence. I'm currently writing my Thesis about predicting traffic accidents based on historical spatiotemporal-data about registered traffic accidents in the Netherlands.
-For my Thesis I am learning about Deep-Neural networks and machine learning models that can cope with this kind of data. 
+👋 Hi, I’m @melchiorhering a Msc Data Science student at the Universiteit van Amsterdam. 
+I am interested in Technology, Data Science and Artificial Intelligence.
 
 ## Contact
 Stijn Hering
