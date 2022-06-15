@@ -1,6 +1,6 @@
 ## About me
-👋 Hi, I’m @melchiorhering a Msc Data Science student at the Universiteit van Amsterdam. 
-I am interested in Technology, Data Science and Artificial Intelligence.
+👋 Hi, I’m @melchiorhering a Junior Data Scientist currently working for PostNL. 
+I am interested in technology, Python, webdevelopment, data science, machine learning and artificial intelligence.
 
 ## Contact
 Stijn Hering
