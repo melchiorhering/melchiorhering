@@ -5,9 +5,10 @@ I am interested in technology, Python, webdevelopment, data science, machine lea
 ## Contact 📝
 Stijn Hering
 Student | Bsc Informatiekunde | Universiteit van Amsterdam
+<li>
 
-📧 - E-mail: stijn@hering.nl 
-🔗 - LinkedIn: https://www.linkedin.com/in/stijn-hering-75aa3917b
+- 📧 [E-mail](stijn@hering.nl]) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/stijn-hering-75aa3917b)
 
 <!---
 melchiorhering/melchiorhering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
