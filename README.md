@@ -3,9 +3,9 @@
 
 ## Contact 📝
 Stijn Hering
-Bsc Informatiekunde | Universiteit van Amsterdam
-Junior Data-Engineer | Aurai
-Junior Data-Scientis | PostNL
+Bsc Informatiekunde | Universiteit van Amsterdam <br />
+Junior Data-Engineer | Aurai <br />
+Junior Data-Scientis | PostNL <br />
 
 - 📧 [E-mail](stijn@hering.nl]) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/stijn-hering-75aa3917b)
