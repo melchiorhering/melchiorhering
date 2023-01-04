@@ -1,10 +1,11 @@
 ## About me 🙋
- Hi, I’m @melchiorhering a Junior Data Scientist currently working for PostNL. 
-I am interested in technology, Python, webdevelopment, data science, machine learning and artificial intelligence.
+ Hi, I’m @melchiorhering a Junior Data Engineer for Aurai currently working for PostNL as a Data Scientist. 
 
 ## Contact 📝
 Stijn Hering
-Student | Bsc Informatiekunde | Universiteit van Amsterdam
+Bsc Informatiekunde | Universiteit van Amsterdam
+Junior Data-Engineer | Aurai
+Junior Data-Scientis | PostNL
 
 - 📧 [E-mail](stijn@hering.nl]) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/stijn-hering-75aa3917b)
