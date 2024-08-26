@@ -23,4 +23,4 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-**[Visit www.stijnhering.nl](https://stijnhering.nl)** for more information.
+**Visit [www.stijnhering.nl](https://stijnhering.nl)** for more information.
