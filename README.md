@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=melchiorhering&color=blueviolet)
 
-#### About Me 👩🏼‍💻
+#### About Me 👨🏻‍💻
 
 - Data Scientist | Data Engineer | Software Engineer at PostNL
 - Working on a variety of projects at PostNL, ranging from GenAI initiatives and ETL pipelines to developing entire platforms.
