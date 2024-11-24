@@ -10,6 +10,7 @@
 
 #### GitHub Stats 🚀
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=melchiorhering&hide=stars&show_icons=true&hide_title=true&hide_border=true&title_color=9ff21e&icon_color=f5429b)](https://github.com/melchiorhering)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melchiorhering)](https://github.com/melchiorhering/github-readme-stats)
 
 ## Tech Stack
 
