@@ -27,6 +27,8 @@ Here are some of the technologies and tools I work with:
 
 <!-- MEDIUM-LIST:START -->
 - [The Rust programming language](https://medium.com/auraidata/the-rust-programming-language-ff4c4627364)
+- [Laying the groundwork with AWS | Postlit Portal](https://medium.com/postnl-engineering/laying-the-groundwork-postlit-portal-ae1e7515a82b)
+- [The Postlit Package | Postlit Portal](https://medium.com/postnl-engineering/the-postlit-package-postlit-portal-52fbc7126102)
 <!-- MEDIUM-LIST:END -->
 
 ---
