@@ -4,8 +4,8 @@
 
 #### About Me 👨🏻‍💻
 
-- Data Scientist | Data Engineer | Software Engineer at PostNL
-- Working on a variety of projects at PostNL, ranging from GenAI initiatives and ETL pipelines to developing entire platforms.
+- Data Scientist | Data Engineer | Software Engineer | ML Engineer @Tennet through Team Rockstars IT
+- Working on a variety of projects at Tennet & Team Rockstars IT, ranging from GenAI initiatives/projects, anything related to data and developing entire platforms.
 - Born and raised in Amsterdam <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuqk1u-kP6F3k4EtB648ri5eBiJvCCsqJSA&s" alt="Amsterdam" style="height: 1em; vertical-align: -0.1em;">, the Netherlands
 
 #### GitHub Stats 🚀
