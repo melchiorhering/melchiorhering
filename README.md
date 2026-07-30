@@ -4,19 +4,12 @@
 
 #### About Me 👨🏻‍💻
 
-- Data Scientist | Data Engineer | Software Engineer | ML Engineer @Tennet through Team Rockstars IT
-- Working on a variety of projects at Tennet & Team Rockstars IT, ranging from GenAI initiatives/projects, anything related to data and developing entire platforms.
+- Someone who likes to build stuff and tinker with tech @Team Rockstars IT
+- Working on a variety of projectsranging from GenAI/Agentic initiatives/projects, anything related to data and developing entire platforms.
 - Born and raised in Amsterdam <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzuqk1u-kP6F3k4EtB648ri5eBiJvCCsqJSA&s" alt="Amsterdam" style="height: 1em; vertical-align: -0.1em;">, the Netherlands
 
 #### GitHub Stats 🚀
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=melchiorhering&hide=stars&show_icons=true&hide_title=true&hide_border=true&title_color=9ff21e&icon_color=f5429b)](https://github.com/melchiorhering)
-
-## Tech Stack
-
-Here are some of the technologies and tools I work with:
-
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
 ## Connect with Me
 
